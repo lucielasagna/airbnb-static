@@ -1,0 +1,28 @@
+Anne:
+  city_image: "card-brussels.jpeg"
+  category: "Brussels"
+  description: "Anne's home"
+  paragraph: "lovely-house"
+  member_pic: "anne.jpg"
+
+Romain:
+  city_image: "card-london.jpeg"
+  category: "London"
+  description: "Romain's home"
+  paragraph: "Nice flat in Piccadilly"
+  member_pic: "romain.jpg"
+
+Seb:
+  city_image: "card-paris.jpg"
+  category: "Paris"
+  description: "Seb's home"
+  paragraph: "Charming room with patio"
+  member_pic: "seb.jpg"
+
+
+
+
+
+
+
+
